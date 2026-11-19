@@ -5,6 +5,6 @@ embedded systems, and telecommunications.
 
 ## What we do
 
-- Organize Capture the Flag competitions, including **ROOT for GLORY**.
+- Organize Capture the Flag competitions..
 - Run hands-on workshops and share learning resources.
 - Build student projects in cybersecurity, embedded systems, and networking.
